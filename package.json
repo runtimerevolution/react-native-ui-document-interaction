@@ -1,6 +1,6 @@
 {
   "name": "@runtimerevolution/react-native-ui-document-interaction",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A react-native wrapper for the UIDocumentInteractionController",
   "source": "./src/index.ts",
   "main": "./lib/commonjs/index.js",
