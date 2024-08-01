@@ -1,0 +1,5 @@
+{
+  "ignorePatterns": ["node_modules/", "lib/"],
+  "root": true,
+  "extends": ["@react-native", "prettier"]
+}
